@@ -1,0 +1,33 @@
+NIKURA-ZERO Lizenz v1.0
+Urheberrecht © Professor NIKURA, 2024–2025
+
+1. Geltungsbereich
+Diese Lizenz gilt ausschließlich für die von Professor NIKURA erstellte Originalsoftware und nicht für Drittanbieterkomponenten.
+
+2. VERBOTEN
+- Nutzung des Codes ❌
+- Kopieren ❌
+- Änderungen ❌
+- Weitergabe ❌
+- Einbettung ❌
+- Veröffentlichung ❌
+- Kommerzielle Nutzung ❌
+
+3. Einzige Erlaubnis
+Nur das Lesen im Original-Repository ist erlaubt.
+
+4. Folgen bei Verstoß
+Jede Verletzung wird nach internationalem Urheberrecht geahndet.
+
+5. Drittanbieter-Komponenten
+Diese Lizenz hebt andere Lizenzen nicht auf.
+
+6. Keine Garantie
+Die Software wird "wie sie ist" bereitgestellt.
+
+7. Lizenzheader
+Jede Datei muss folgenden Header enthalten:
+
+// SPDX-License-Identifier: NIKURA-ZERO-1.0
+// Copyright (c) 2024–2025 Professor NIKURA
+// License: NIKURA-ZERO v1.0 – Unauthorized use, copying, modification or distribution is strictly prohibited.

@@ -1,0 +1,32 @@
+NIKURA-ZERO 许可协议 v1.0
+版权所有 © NIKURA 教授, 2024–2025
+
+1. 适用范围
+本许可协议仅适用于 NIKURA 教授原创的软件，不适用于任何第三方组件。
+
+2. 严禁行为
+- 使用代码 ❌
+- 复制 ❌
+- 修改 ❌
+- 分发 ❌
+- 嵌入 ❌
+- 发布 ❌
+- 商业用途 ❌
+
+3. 唯一许可
+仅允许在原始仓库中阅读。
+
+4. 违规后果
+任何违反行为将依法追责。
+
+5. 第三方组件声明
+不干扰其他许可协议。
+
+6. 无担保
+本软件按“原样”提供。
+
+7. 源文件头部应包含：
+
+// SPDX-License-Identifier: NIKURA-ZERO-1.0
+// Copyright (c) 2024–2025 Professor NIKURA
+// License: NIKURA-ZERO v1.0 – Unauthorized use, copying, modification or distribution is strictly prohibited.

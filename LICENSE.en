@@ -1,0 +1,35 @@
+NIKURA-ZERO LICENSE v1.0
+Copyright © Professor NIKURA, 2024–2025
+
+1. Scope of License
+This license applies only to the original software created by Professor NIKURA. It does NOT extend to third-party libraries or components used within the project.
+
+2. PROHIBITED ACTIONS
+The following actions are strictly FORBIDDEN:
+- Use of this software ❌
+- Copying any part of the source code ❌
+- Modifying the code ❌
+- Redistributing the code or modified versions ❌
+- Commercial usage ❌
+- Integration into other products or systems ❌
+- Publication or mirroring of this code elsewhere ❌
+
+3. Permitted Use
+Read-only access to the source code is allowed strictly within the original repository, without download or duplication.
+
+4. Legal Enforcement
+Any breach of this license will be prosecuted under international copyright law.
+
+5. Disclaimer on Third-Party Software
+This license does not override the licenses of any third-party dependencies used in this repository. Those remain governed by their respective licenses.
+
+6. Warranty Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+7. Required Source Header
+Each file licensed under NIKURA-ZERO must begin with the following header:
+
+// SPDX-License-Identifier: NIKURA-ZERO-1.0
+// Copyright (c) 2024–2025 Professor NIKURA
+// tg: N1KURA
+// License: NIKURA-ZERO v1.0 – Unauthorized use, copying, modification or distribution is strictly prohibited.
